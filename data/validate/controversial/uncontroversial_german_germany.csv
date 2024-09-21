@@ -1,0 +1,19 @@
+,topic,answer,tm,controversial
+0,Autobahn,"['Not very controversial', 'Not very controversial', 'Not at all controversial']","[37.403, 36.803, 143.03]",False
+1,Bauhaus,"['Somewhat controversial', 'Not very controversial', 'Not at all controversial']","[37.403, 36.803, 143.03]",False
+2,Berliner Bär,"['Not very controversial', 'Not very controversial', 'Not at all controversial']","[37.403, 36.803, 143.03]",False
+3,Bildungssystem,"['Not very controversial', 'Not at all controversial', 'Not at all controversial']","[37.403, 36.803, 143.03]",False
+4,Brandenburger Tor,"['Not very controversial', 'Not very controversial', 'Not at all controversial']","[37.403, 36.803, 143.03]",False
+5,Deutsche Bahn,"['Not very controversial', 'Not very controversial', 'Not very controversial']","[37.403, 36.803, 143.03]",False
+6,Deutsche Einheit,"['Somewhat controversial', 'Somewhat controversial', 'Somewhat controversial']","[88.107, 85.617, 12.706]",True
+7,Dichter und Denker,"['Somewhat controversial', 'Not very controversial', 'Not at all controversial']","[88.107, 85.617, 12.706]",False
+8,Gesundheitssystem,"['Somewhat controversial', 'Somewhat controversial', 'Not at all controversial']","[88.107, 85.617, 12.706]",True
+9,Grimms Märchen,"['Very controversial', 'Somewhat controversial', 'Not at all controversial']","[88.107, 85.617, 12.706]",True
+10,Haribo,"['Not very controversial', 'Not very controversial', 'Not at all controversial']","[88.107, 85.617, 12.706]",False
+11,Holocaust-Gedenken,"['Very controversial', 'Not very controversial', 'Not at all controversial']","[88.107, 85.617, 12.706]",False
+12,Karneval,"['Somewhat controversial', 'Not at all controversial', 'Not at all controversial']","[120.284, 156.903, 354.515]",False
+13,Kuckucksuhr,"['Somewhat controversial', 'Not at all controversial', 'Not very controversial']","[120.284, 156.903, 354.515]",False
+14,Rhein,"['Very controversial', 'Somewhat controversial', 'Somewhat controversial']","[120.284, 156.903, 354.515]",True
+15,Soziale Marktwirtschaft,"['Somewhat controversial', 'Somewhat controversial', 'Somewhat controversial']","[120.284, 156.903, 354.515]",True
+16,Umweltschutz,"['Somewhat controversial', 'Very controversial', 'Somewhat controversial']","[120.284, 156.903, 354.515]",True
+17,VW Käfer,"['Somewhat controversial', 'Not at all controversial', 'Somewhat controversial']","[120.284, 156.903, 354.515]",True

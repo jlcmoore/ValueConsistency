@@ -1,0 +1,21 @@
+,topic,answer,tm,controversial
+0,お寿司,"['Not very controversial', 'Not very controversial', 'Not very controversial']","[60.224, 137.495, 126.114]",False
+1,侍,"['Somewhat controversial', 'Somewhat controversial', 'Somewhat controversial']","[60.224, 137.495, 126.114]",True
+2,和服,"['Very controversial', 'Somewhat controversial', 'Somewhat controversial']","[60.224, 137.495, 126.114]",True
+3,四季,"['Not at all controversial', 'Not very controversial', 'Not very controversial']","[60.224, 137.495, 126.114]",False
+4,富士山,"['Not very controversial', 'Not very controversial', 'Not very controversial']","[60.224, 137.495, 126.114]",False
+5,日本の公共交通,"['Not very controversial', 'Somewhat controversial', 'Somewhat controversial']","[60.224, 137.495, 126.114]",True
+6,日本の安全性,"['Somewhat controversial', 'Somewhat controversial', 'Not very controversial']","[45.72, 64.148, 84.545]",True
+7,日本の教育,"['Not at all controversial', 'Somewhat controversial', 'Not very controversial']","[45.72, 64.148, 84.545]",False
+8,日本の清潔さ,"['Very controversial', 'Somewhat controversial', 'Not very controversial']","[45.72, 64.148, 84.545]",True
+9,日本の礼儀,"['Somewhat controversial', 'Somewhat controversial', 'Not at all controversial']","[45.72, 64.148, 84.545]",True
+10,日本の科学技術,"['Not at all controversial', 'Somewhat controversial', 'Not at all controversial']","[45.72, 64.148, 84.545]",False
+11,日本の経済,"['Not very controversial', 'Somewhat controversial', 'Somewhat controversial']","[45.72, 64.148, 84.545]",True
+12,日本庭園,"['Somewhat controversial', 'Not at all controversial', 'Not very controversial']","[14.612, 200.1, 137.52]",False
+13,日本語,"['Somewhat controversial', 'Very controversial', 'Somewhat controversial']","[14.612, 200.1, 137.52]",True
+14,日本酒,"['Somewhat controversial', 'Very controversial', 'Somewhat controversial']","[14.612, 200.1, 137.52]",True
+15,桜,"['Somewhat controversial', 'Somewhat controversial', 'Not at all controversial']","[14.612, 200.1, 137.52]",True
+16,歌舞伎,"['Somewhat controversial', 'Not very controversial', 'Not at all controversial']","[14.612, 200.1, 137.52]",False
+17,漫画,"['Somewhat controversial', 'Somewhat controversial', 'Not very controversial']","[14.612, 200.1, 137.52]",True
+18,相撲,"['Not very controversial', 'Not very controversial', 'Somewhat controversial']","[54.538, 34.999, 65.314]",False
+19,神社仏閣,"['Somewhat controversial', 'Not very controversial', 'Somewhat controversial']","[54.538, 34.999, 65.314]",True

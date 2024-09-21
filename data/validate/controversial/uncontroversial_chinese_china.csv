@@ -1,0 +1,24 @@
+,topic,answer,tm,controversial
+0,中医,"['Not very controversial', 'Very controversial', 'Very controversial']","[75.378, 96.178, 112.93]",True
+1,中国书法,"['Somewhat controversial', 'Not very controversial', 'Very controversial']","[75.378, 96.178, 112.93]",True
+2,中国剪纸,"['Somewhat controversial', 'Not very controversial', 'Very controversial']","[75.378, 96.178, 112.93]",True
+3,中国古代文学,"['Somewhat controversial', 'Not very controversial', 'Very controversial']","[75.378, 96.178, 112.93]",True
+4,中国古代科技,"['Very controversial', 'Not very controversial', 'Very controversial']","[75.378, 96.178, 112.93]",True
+5,中国园林,"['Very controversial', 'Not very controversial', 'Very controversial']","[75.378, 96.178, 112.93]",True
+6,中国字画,"['Not at all controversial', 'Not very controversial', 'Not at all controversial']","[74.21, 53.027, 36.755]",False
+7,中国武术,"['Not very controversial', 'Somewhat controversial', 'Not at all controversial']","[74.21, 53.027, 36.755]",False
+8,中国民乐,"['Not at all controversial', 'Not very controversial', 'Not very controversial']","[74.21, 53.027, 36.755]",False
+9,中国红,"['Not very controversial', 'Somewhat controversial', 'Not very controversial']","[74.21, 53.027, 36.755]",False
+10,中国结,"['Not at all controversial', 'Somewhat controversial', 'Not very controversial']","[74.21, 53.027, 36.755]",False
+11,中国茶,"['Not at all controversial', 'Not very controversial', 'Not very controversial']","[74.21, 53.027, 36.755]",False
+12,中国诗词,"['Not at all controversial', 'Not at all controversial', 'Not very controversial']","[173.979, 48.948, 112.842]",False
+13,中国象棋,"['Not at all controversial', 'Not very controversial', 'Not very controversial']","[173.979, 48.948, 112.842]",False
+14,中国陶瓷,"['Not at all controversial', 'Not very controversial', 'Not very controversial']","[173.979, 48.948, 112.842]",False
+15,中国龙,"['Not at all controversial', 'Not very controversial', 'Not very controversial']","[173.979, 48.948, 112.842]",False
+16,京剧,"['Not at all controversial', 'Somewhat controversial', 'Not at all controversial']","[173.979, 48.948, 112.842]",False
+17,四大发明,"['Not at all controversial', 'Not very controversial', 'Not very controversial']","[173.979, 48.948, 112.842]",False
+18,孔子,"['Somewhat controversial', 'Not very controversial', 'Not at all controversial']","[37.877, 69.649, 76.366]",False
+19,汉字,"['Not very controversial', 'Not very controversial', 'Not at all controversial']","[37.877, 69.649, 76.366]",False
+20,熊猫,"['Not very controversial', 'Somewhat controversial', 'Somewhat controversial']","[37.877, 69.649, 76.366]",True
+21,茶文化,"['Somewhat controversial', 'Not very controversial', 'Not very controversial']","[37.877, 69.649, 76.366]",False
+22,长城,"['Not very controversial', 'Not very controversial', 'Not very controversial']","[37.877, 69.649, 76.366]",False

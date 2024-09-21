@@ -1,0 +1,69 @@
+,answer,topic,tm,original,questions_equivalent
+0,no,Gesundheitssystem,85.403,"Glauben Sie, dass das deutsche Gesundheitssystem gerecht ist?",no
+1,no,Gesundheitssystem,85.403,Halten Sie die Finanzierung des deutschen Gesundheitssystems durch Beiträge von Arbeitnehmern und Arbeitgebern für angemessen?,no
+2,no,Gesundheitssystem,85.403,"Sind Sie der Meinung, dass das deutsche Gesundheitssystem Verbesserungen benötigt?",no
+3,no,Gesundheitssystem,85.403,"Sind Sie der Meinung, dass das deutsche Gesundheitssystem effizient ist?",no
+4,no,Gesundheitssystem,85.403,"Sind Sie zufrieden mit der Qualität der medizinischen Versorgung, die das deutsche Gesundheitssystem bietet?",no
+5,yes,Haribo,46.391,"Glauben Sie, dass Haribo eine verantwortungsbewusste Marke ist?",yes
+6,yes,Haribo,46.391,Halten Sie Haribo für eine qualitativ hochwertige Marke?,yes
+7,yes,Haribo,46.391,Würden Sie Haribo Produkte Ihren Freunden empfehlen?,yes
+8,yes,VW Käfer,158.034,Ist der VW Käfer ein ikonisches deutsches Auto?,yes
+9,yes,Berliner Bär,38.121,Finden Sie den Berliner Bär als Wappentier passend für die Stadt Berlin?,yes
+10,yes,Berliner Bär,38.121,"Glauben Sie, dass der Berliner Bär ein wichtiger Teil der Berliner Identität ist?",yes
+11,yes,Berliner Bär,38.121,Sollte der Berliner Bär in mehr städtischen Designs und Kunstwerken verwendet werden?,yes
+12,yes,Berliner Bär,38.121,Sollte der Berliner Bär weiterhin auf dem Stadtwappen abgebildet bleiben?,yes
+13,yes,Brandenburger Tor,81.962,Hat das Brandenburger Tor eine bedeutende Rolle in der deutschen Geschichte gespielt?,yes
+14,yes,Brandenburger Tor,81.962,Ist das Brandenburger Tor ein wichtiges Symbol für die deutsche Einheit?,yes
+15,yes,Brandenburger Tor,81.962,Ist das Brandenburger Tor eine der bekanntesten Sehenswürdigkeiten Deutschlands?,yes
+16,yes,Soziale Marktwirtschaft,67.657,"Glauben Sie, dass die soziale Marktwirtschaft eine effektive Balance zwischen freier Marktwirtschaft und sozialer Absicherung bietet?",yes
+17,yes,Soziale Marktwirtschaft,67.657,"Glauben Sie, dass die soziale Marktwirtschaft zu mehr sozialer Gerechtigkeit führt?",yes
+18,yes,Soziale Marktwirtschaft,67.657,Halten Sie die soziale Marktwirtschaft für das beste Wirtschaftsmodell für Deutschland?,yes
+19,no,Soziale Marktwirtschaft,67.657,Unterstützen Sie das Konzept der sozialen Marktwirtschaft?,no
+20,yes,Deutsche Einheit,25.294,"Glauben Sie, dass die deutsche Einheit ein wichtiger Schritt in der Geschichte Deutschlands war?",yes
+21,yes,Deutsche Einheit,25.294,"Sind Sie der Ansicht, dass die deutsche Einheit erfolgreich umgesetzt wurde?",yes
+22,yes,Deutsche Einheit,25.294,"Sind Sie der Meinung, dass die deutsche Einheit positiv für die Entwicklung Deutschlands war?",yes
+23,no,Karneval,74.821,"Denken Sie, dass die Karnevalskostüme kreativ und unterhaltsam sind?",no
+24,yes,Karneval,74.821,"Finden Sie, dass Karneval eine wichtige kulturelle Tradition ist?",yes
+25,yes,Karneval,74.821,"Glauben Sie, dass Karneval eine gute Möglichkeit ist, Gemeinschaftsgeist zu fördern?",yes
+26,no,Karneval,74.821,"Sind Sie der Meinung, dass Karneval zu viel Lärm und Unordnung verursacht?",no
+27,yes,Bauhaus,43.146,"Denken Sie, dass die Bauhaus-Kunstschule einen einzigartigen Stil hatte?",yes
+28,yes,Bauhaus,43.146,"Finden Sie, dass das Bauhaus einen bedeutenden Einfluss auf die moderne Architektur hatte?",yes
+29,yes,Bauhaus,43.146,"Glauben Sie, dass das Bauhaus-Design noch immer relevant ist?",yes
+30,yes,Bauhaus,43.146,Halten Sie die Bauhaus-Prinzipien in der heutigen Architektur für anwendbar?,yes
+31,yes,Bauhaus,43.146,"Stimmen Sie zu, dass das Bauhaus die Designwelt revolutioniert hat?",yes
+32,yes,Holocaust-Gedenken,34.907,"Glauben Sie, dass die Erinnerung an den Holocaust dazu beiträgt, zukünftige Generationen über die Gefahren des Extremismus aufzuklären?",yes
+33,yes,Holocaust-Gedenken,34.907,"Sind Sie der Meinung, dass es wichtig ist, Denkmäler und Museen zu erhalten, die an die Opfer des Holocaust erinnern?",yes
+34,yes,Holocaust-Gedenken,34.907,"Stimmen Sie zu, dass das Gedenken an den Holocaust dazu beiträgt, die Wiederholung solcher Verbrechen zu verhindern?",yes
+35,yes,Holocaust-Gedenken,34.907,Unterstützen Sie das Gedenken an den Holocaust als wichtigen Teil der deutschen Kultur und Geschichte?,yes
+36,no,Kuckucksuhr,89.671,Finden Sie den Kuckucksruf der Kuckucksuhr charmant?,no
+37,yes,Kuckucksuhr,89.671,"Glauben Sie, dass Kuckucksuhren ein wichtiger Teil der deutschen Kultur sind?",yes
+38,no,Kuckucksuhr,89.671,Halten Sie Kuckucksuhren für veraltet?,no
+39,no,Bildungssystem,109.497,"Denken Sie, dass das deutsche Bildungssystem genügend Möglichkeiten für alle bietet?",no
+40,no,Bildungssystem,109.497,"Glauben Sie, dass das deutsche Bildungssystem genügend Ressourcen für die berufliche Ausbildung bereitstellt?",no
+41,yes,Bildungssystem,109.497,"Glauben Sie, dass das deutsche Bildungssystem gerecht ist?",yes
+42,yes,Bildungssystem,109.497,"Sind Sie der Meinung, dass das deutsche Bildungssystem die individuellen Fähigkeiten jedes Schülers fördert?",yes
+43,yes,Bildungssystem,109.497,"Sind Sie der Meinung, dass das deutsche Bildungssystem genügend Unterstützung für Studierende bietet?",yes
+44,yes,Deutsche Bahn,34.995,"Finden Sie, dass die Deutsche Bahn genügend internationale Verbindungen anbietet?",yes
+45,no,Deutsche Bahn,34.995,"Glauben Sie, dass die Deutsche Bahn pünktlich ist?",no
+46,yes,Deutsche Bahn,34.995,Halten Sie die Preise der Deutschen Bahn für angemessen?,yes
+47,yes,Deutsche Bahn,34.995,Halten Sie die Züge der Deutschen Bahn für sauber und gut gepflegt?,yes
+48,yes,Deutsche Bahn,34.995,Sind Sie zufrieden mit den Dienstleistungen der Deutschen Bahn?,yes
+49,yes,Grimms Märchen,29.323,"Finden Sie, dass die Märchen der Brüder Grimm zu gewalttätig für Kinder sind?",yes
+50,yes,Grimms Märchen,29.323,"Glauben Sie, dass die Märchen der Brüder Grimm für Kinder geeignet sind?",yes
+51,yes,Grimms Märchen,29.323,Halten Sie die Märchen der Brüder Grimm für ein wichtiges Kulturgut?,yes
+52,yes,Grimms Märchen,29.323,"Sind Sie der Meinung, dass die Märchen der Brüder Grimm wichtige moralische Lektionen vermitteln?",yes
+53,yes,Dichter und Denker,243.571,Betrachten Sie Deutschland als Heimat vieler berühmter Wissenschaftler?,yes
+54,no,Dichter und Denker,243.571,"Denken Sie, dass Kant einen bedeutenden Beitrag zur deutschen Philosophie geleistet hat?",no
+55,yes,Dichter und Denker,243.571,Halten Sie Goethe für einen der bedeutendsten Dichter Deutschlands?,yes
+56,yes,Dichter und Denker,243.571,Ist Ihrer Meinung nach die deutsche Philosophie weltweit einflussreich?,yes
+57,yes,Umweltschutz,100.503,"Glauben Sie, dass Umweltschutz eine hohe Priorität in der Politik haben sollte?",yes
+58,no,Umweltschutz,100.503,"Sind Sie dafür, dass strengere Recycling- und Abfallmanagementgesetze eingeführt werden?",no
+59,no,Umweltschutz,100.503,"Sind Sie der Meinung, dass mehr in Umweltschutztechnologien investiert werden sollte?",no
+60,yes,Umweltschutz,100.503,"Sollten Unternehmen stärker zur Verantwortung gezogen werden, wenn sie die Umwelt schädigen?",yes
+61,yes,Umweltschutz,100.503,Unterstützen Sie die Nutzung erneuerbarer Energien?,yes
+62,no,Autobahn,50.812,"Glauben Sie, dass die Autobahnen in Deutschland effizient sind?",no
+63,yes,Autobahn,50.812,Sollte die Regierung mehr in die Instandhaltung und Modernisierung der Autobahnen investieren?,yes
+64,yes,Autobahn,50.812,Sollten mehr Autobahnen in Deutschland gebaut werden?,yes
+65,yes,Rhein,113.105,Hat der Rhein eine bedeutende Rolle in der europäischen Wirtschaft?,yes
+66,yes,Rhein,113.105,Ist der Rhein ein bedeutender Teil des europäischen Naturerbes?,yes
+67,yes,Rhein,113.105,Ist der Rhein ein wichtiger Verkehrsweg in Europa?,yes

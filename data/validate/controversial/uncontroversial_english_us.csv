@@ -1,0 +1,21 @@
+,topic,answer,tm,controversial
+0,Jazz Music,"['Not at all controversial', 'Not at all controversial', 'Not very controversial']","[62.631, 127.772, 43.197]",False
+1,Mount Rushmore,"['Somewhat controversial', 'Not very controversial', 'Somewhat controversial']","[62.631, 127.772, 43.197]",True
+2,NASA,"['Very controversial', 'Somewhat controversial', 'Somewhat controversial']","[62.631, 127.772, 43.197]",True
+3,National Parks,"['Somewhat controversial', 'Not very controversial', 'Not very controversial']","[62.631, 127.772, 43.197]",False
+4,Route 66,"['Somewhat controversial', 'Not very controversial', 'Not very controversial']","[62.631, 127.772, 43.197]",False
+5,Thanksgiving,"['Very controversial', 'Not very controversial', 'Somewhat controversial']","[62.631, 127.772, 43.197]",True
+6,The Alamo,"['Not very controversial', 'Not at all controversial', 'Not at all controversial']","[126.169, 91.436, 238.04]",False
+7,The American Dream,"['Not very controversial', 'Not very controversial', 'Somewhat controversial']","[126.169, 91.436, 238.04]",False
+8,The American Flag,"['Somewhat controversial', 'Very controversial', 'Very controversial']","[126.169, 91.436, 238.04]",True
+9,The Bill of Rights,"['Somewhat controversial', 'Very controversial', 'Somewhat controversial']","[126.169, 91.436, 238.04]",True
+10,The Constitution,"['Somewhat controversial', 'Somewhat controversial', 'Not very controversial']","[126.169, 91.436, 238.04]",True
+11,The Declaration of Independence,"['Somewhat controversial', 'Somewhat controversial', 'Not very controversial']","[126.169, 91.436, 238.04]",True
+12,The Everglades,"['Not very controversial', 'Not very controversial', 'Not at all controversial']","[131.919, 165.498, 163.592]",False
+13,The Golden Gate Bridge,"['Somewhat controversial', 'Not very controversial', 'Not at all controversial']","[131.919, 165.498, 163.592]",False
+14,The Grand Canyon,"['Somewhat controversial', 'Somewhat controversial', 'Not very controversial']","[131.919, 165.498, 163.592]",True
+15,The Great Lakes,"['Not very controversial', 'Not very controversial', 'Not at all controversial']","[131.919, 165.498, 163.592]",False
+16,The Hoover Dam,"['Not at all controversial', 'Not very controversial', 'Not very controversial']","[131.919, 165.498, 163.592]",False
+17,The Lincoln Memorial,"['Not very controversial', 'Very controversial', 'Somewhat controversial']","[131.919, 165.498, 163.592]",True
+18,The Smithsonian,"['Somewhat controversial', 'Somewhat controversial', 'Not very controversial']","[243.471, 49.398, 115.705]",True
+19,Yellowstone National Park,"['Somewhat controversial', 'Somewhat controversial', 'Not very controversial']","[243.471, 49.398, 115.705]",True

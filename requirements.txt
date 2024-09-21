@@ -1,0 +1,23 @@
+pandas
+ipykernel
+numpy
+jupyter_client
+jupyter_core
+scipy
+matplotlib
+requests
+openai
+ipywidgets
+tenacity
+tqdm
+anthropic
+tiktoken
+datasets
+kaleidosys @ git+https://github.com/jlcmoore/kaleido
+jensen_shannon_centroid
+statsmodels
+boto3
+# Comment out the following lines if not on linux
+vllm
+torch
+sentence_transformers

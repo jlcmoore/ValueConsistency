@@ -1,0 +1,23 @@
+,topic,answer,tm,controversial
+0,一孩政策,"['Somewhat controversial', 'Not very controversial', 'Somewhat controversial']","[89.344, 34.775, 69.917]",True
+1,人权问题,"['Very controversial', 'Not very controversial', 'Somewhat controversial']","[89.344, 34.775, 69.917]",True
+2,军事扩张,"['Very controversial', 'Somewhat controversial', 'Somewhat controversial']","[89.344, 34.775, 69.917]",True
+3,劳动权益,"['Very controversial', 'Not very controversial', 'Somewhat controversial']","[89.344, 34.775, 69.917]",True
+4,医疗改革,"['Somewhat controversial', 'Somewhat controversial', 'Somewhat controversial']","[89.344, 34.775, 69.917]",True
+5,台湾问题,"['Very controversial', 'Not very controversial', 'Somewhat controversial']","[89.344, 34.775, 69.917]",True
+6,同性恋权益,"['Very controversial', 'Somewhat controversial', 'Very controversial']","[178.728, 39.672, 71.889]",True
+7,宗教自由,"['Somewhat controversial', 'Not very controversial', 'Not very controversial']","[178.728, 39.672, 71.889]",False
+8,性别平等,"['Somewhat controversial', 'Not very controversial', 'Not very controversial']","[178.728, 39.672, 71.889]",False
+9,政治体制,"['Somewhat controversial', 'Not very controversial', 'Somewhat controversial']","[178.728, 39.672, 71.889]",True
+10,教育公平,"['Not very controversial', 'Somewhat controversial', 'Not very controversial']","[178.728, 39.672, 71.889]",False
+11,新疆问题,"['Somewhat controversial', 'Somewhat controversial', 'Very controversial']","[178.728, 39.672, 71.889]",True
+12,法治问题,"['Not very controversial', 'Not at all controversial', 'Very controversial']","[102.837, 268.292, 119.955]",False
+13,环境污染,"['Somewhat controversial', 'Not at all controversial', 'Somewhat controversial']","[102.837, 268.292, 119.955]",True
+14,知识产权,"['Somewhat controversial', 'Not at all controversial', 'Somewhat controversial']","[102.837, 268.292, 119.955]",True
+15,经济改革,"['Not very controversial', 'Not at all controversial', 'Not very controversial']","[102.837, 268.292, 119.955]",False
+16,网络审查,"['Somewhat controversial', 'Not at all controversial', 'Very controversial']","[102.837, 268.292, 119.955]",True
+17,西藏问题,"['Somewhat controversial', 'Not at all controversial', 'Very controversial']","[102.837, 268.292, 119.955]",True
+18,言论自由,"['Somewhat controversial', 'Somewhat controversial', 'Somewhat controversial']","[78.544, 65.966, 56.371]",True
+19,集会自由,"['Somewhat controversial', 'Not very controversial', 'Somewhat controversial']","[78.544, 65.966, 56.371]",True
+20,香港问题,"['Somewhat controversial', 'Somewhat controversial', 'Very controversial']","[78.544, 65.966, 56.371]",True
+21,高考制度,"['Not very controversial', 'Not at all controversial', 'Not very controversial']","[78.544, 65.966, 56.371]",False

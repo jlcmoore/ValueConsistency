@@ -1,0 +1,17 @@
+*.pyc
+*.ipynb_checkpoints
+env/
+env-valueconsistency/
+*__pycache__*
+*.DS_Store
+src/valueconsistency.egg-info/ 
+*.gantry
+external_data/commonsense-norm-bank
+jobs/
+beaker/
+beaker_experiment_local.yaml
+notebooks/Untitled.ipynb
+mturk/mturk.html
+*.log
+# Only avoiding the above for now
+results/

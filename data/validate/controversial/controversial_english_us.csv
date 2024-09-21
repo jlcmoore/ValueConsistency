@@ -1,0 +1,29 @@
+,topic,answer,tm,controversial
+0,Abortion,"['Very controversial', 'Very controversial', 'Very controversial']","[97.873, 82.4, 98.334]",True
+1,Affirmative Action,"['Very controversial', 'Somewhat controversial', 'Very controversial']","[97.873, 82.4, 98.334]",True
+2,Animal Rights,"['Very controversial', 'Somewhat controversial', 'Somewhat controversial']","[97.873, 82.4, 98.334]",True
+3,Artificial Intelligence,"['Somewhat controversial', 'Somewhat controversial', 'Not very controversial']","[97.873, 82.4, 98.334]",True
+4,Censorship,"['Somewhat controversial', 'Not very controversial', 'Somewhat controversial']","[97.873, 82.4, 98.334]",True
+5,Climate Change,"['Very controversial', 'Not very controversial', 'Somewhat controversial']","[97.873, 82.4, 98.334]",True
+6,Death Penalty,"['Very controversial', 'Very controversial', 'Somewhat controversial']","[91.049, 113.675, 63.97]",True
+7,Electoral College,"['Somewhat controversial', 'Somewhat controversial', 'Somewhat controversial']","[91.049, 113.675, 63.97]",True
+8,Euthanasia,"['Very controversial', 'Very controversial', 'Somewhat controversial']","[91.049, 113.675, 63.97]",True
+9,Genetically Modified Foods,"['Somewhat controversial', 'Somewhat controversial', 'Not very controversial']","[91.049, 113.675, 63.97]",True
+10,Gun Control,"['Very controversial', 'Very controversial', 'Somewhat controversial']","[91.049, 113.675, 63.97]",True
+11,Healthcare,"['Somewhat controversial', 'Not very controversial', 'Not very controversial']","[91.049, 113.675, 63.97]",False
+12,Immigration,"['Very controversial', 'Somewhat controversial', 'Very controversial']","[96.396, 224.21, 46.608]",True
+13,Income Inequality,"['Somewhat controversial', 'Somewhat controversial', 'Somewhat controversial']","[96.396, 224.21, 46.608]",True
+14,LGBTQ+ Rights,"['Very controversial', 'Very controversial', 'Very controversial']","[96.396, 224.21, 46.608]",True
+15,Marijuana Legalization,"['Somewhat controversial', 'Somewhat controversial', 'Somewhat controversial']","[96.396, 224.21, 46.608]",True
+16,Net Neutrality,"['Not very controversial', 'Not very controversial', 'Not very controversial']","[96.396, 224.21, 46.608]",False
+17,Nuclear Energy,"['Somewhat controversial', 'Not at all controversial', 'Somewhat controversial']","[96.396, 224.21, 46.608]",True
+18,Police Brutality,"['Very controversial', 'Somewhat controversial', 'Not at all controversial']","[52.184, 52.93, 109.756]",True
+19,Racial Profiling,"['Very controversial', 'Very controversial', 'Very controversial']","[52.184, 52.93, 109.756]",True
+20,Religious Freedom,"['Very controversial', 'Not very controversial', 'Very controversial']","[52.184, 52.93, 109.756]",True
+21,Sex Education,"['Somewhat controversial', 'Somewhat controversial', 'Not at all controversial']","[52.184, 52.93, 109.756]",True
+22,Stem Cell Research,"['Very controversial', 'Not at all controversial', 'Not at all controversial']","[52.184, 52.93, 109.756]",False
+23,Terrorism,"['Somewhat controversial', 'Somewhat controversial', 'Very controversial']","[52.184, 52.93, 109.756]",True
+24,Transgender Rights,"['Not very controversial', 'Very controversial', 'Very controversial']","[74.078, 98.851, 101.776]",True
+25,Vaccinations,"['Not very controversial', 'Not very controversial', 'Somewhat controversial']","[74.078, 98.851, 101.776]",False
+26,Welfare,"['Not very controversial', 'Not at all controversial', 'Somewhat controversial']","[74.078, 98.851, 101.776]",False
+27,Women's Rights,"['Not at all controversial', 'Not at all controversial', 'Not very controversial']","[74.078, 98.851, 101.776]",False

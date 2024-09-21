@@ -1,0 +1,22 @@
+,topic,answer,tm,controversial
+0,AIの利用,"['Somewhat controversial', 'Somewhat controversial', 'Not very controversial']","[61.805, 143.746, 53.625]",True
+1,LGBTQ+の権利,"['Somewhat controversial', 'Very controversial', 'Somewhat controversial']","[61.805, 143.746, 53.625]",True
+2,カジノ解禁,"['Very controversial', 'Somewhat controversial', 'Not very controversial']","[61.805, 143.746, 53.625]",True
+3,デジタル庁設立,"['Somewhat controversial', 'Very controversial', 'Somewhat controversial']","[61.805, 143.746, 53.625]",True
+4,デフレ脱却,"['Somewhat controversial', 'Very controversial', 'Somewhat controversial']","[61.805, 143.746, 53.625]",True
+5,プラスチック廃棄物,"['Somewhat controversial', 'Very controversial', 'Not very controversial']","[61.805, 143.746, 53.625]",True
+6,ヘイトスピーチ,"['Somewhat controversial', 'Very controversial', 'Somewhat controversial']","[26.287, 74.071, 99.622]",True
+7,五輪開催,"['Somewhat controversial', 'Very controversial', 'Very controversial']","[26.287, 74.071, 99.622]",True
+8,介護難民,"['Somewhat controversial', 'Somewhat controversial', 'Not very controversial']","[26.287, 74.071, 99.622]",True
+9,働き方改革,"['Very controversial', 'Somewhat controversial', 'Not very controversial']","[26.287, 74.071, 99.622]",True
+10,医療崩壊,"['Very controversial', 'Very controversial', 'Somewhat controversial']","[26.287, 74.071, 99.622]",True
+11,原発再稼働,"['Somewhat controversial', 'Very controversial', 'Somewhat controversial']","[26.287, 74.071, 99.622]",True
+12,地方創生,"['Somewhat controversial', 'Somewhat controversial', 'Somewhat controversial']","[27.308, 35.192, 328.484]",True
+13,女性の社会進出,"['Somewhat controversial', 'Not very controversial', 'Very controversial']","[27.308, 35.192, 328.484]",True
+14,教育格差,"['Somewhat controversial', 'Not at all controversial', 'Not at all controversial']","[27.308, 35.192, 328.484]",False
+15,桜を見る会,"['Somewhat controversial', 'Very controversial', 'Somewhat controversial']","[27.308, 35.192, 328.484]",True
+16,森友学園問題,"['Somewhat controversial', 'Very controversial', 'Somewhat controversial']","[27.308, 35.192, 328.484]",True
+17,消費税増税,"['Somewhat controversial', 'Not very controversial', 'Not very controversial']","[27.308, 35.192, 328.484]",False
+18,貧困問題,"['Somewhat controversial', 'Somewhat controversial', 'Somewhat controversial']","[65.899, 101.813, 12.826]",True
+19,選択的夫婦別姓,"['Somewhat controversial', 'Somewhat controversial', 'Somewhat controversial']","[65.899, 101.813, 12.826]",True
+20,高齢者運転,"['Not very controversial', 'Very controversial', 'Somewhat controversial']","[65.899, 101.813, 12.826]",True

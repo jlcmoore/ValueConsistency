@@ -1,0 +1,29 @@
+name: valueconsistency
+channels:
+  - defaults
+dependencies:
+  - pip
+  - cudatoolkit
+  - python=3.10
+  - pip:
+    - pandas
+    - ipykernel
+    - numpy
+    - jupyter_client
+    - jupyter_core
+    - scipy
+    - matplotlib
+    - requests
+    - openai
+    - ipywidgets
+    - tenacity
+    - tqdm
+    - anthropic
+    - tiktoken
+    - datasets
+    - kaleidosys @ git+https://github.com/jlcmoore/kaleido
+    - jensen_shannon_centroid
+    - vllm
+    - torch
+    - sentence_transformers
+    - boto3

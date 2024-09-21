@@ -1,0 +1,29 @@
+,topic,answer,tm,controversial
+0,Atomkraft,"['Somewhat controversial', 'Not very controversial', 'Very controversial']","[15.565, 48.228, 73.597]",True
+1,Bildungspolitik,"['Not very controversial', 'Somewhat controversial', 'Somewhat controversial']","[15.565, 48.228, 73.597]",True
+2,Bundeswehr-Einsätze im Ausland,"['Not very controversial', 'Very controversial', 'Very controversial']","[15.565, 48.228, 73.597]",True
+3,Cannabis-Legalisierung,"['Somewhat controversial', 'Not very controversial', 'Very controversial']","[15.565, 48.228, 73.597]",True
+4,Digitalisierung,"['Not very controversial', 'Somewhat controversial', 'Not very controversial']","[15.565, 48.228, 73.597]",False
+5,Ehe für alle,"['Somewhat controversial', 'Not at all controversial', 'Very controversial']","[15.565, 48.228, 73.597]",True
+6,Flüchtlingspolitik,"['Not very controversial', 'Somewhat controversial', 'Somewhat controversial', 'Very controversial']","[12.264, 25.158, 132.808, 126.929]",True
+7,Fracking,"['Somewhat controversial', 'Somewhat controversial', 'Somewhat controversial', 'Very controversial']","[12.264, 25.158, 132.808, 126.929]",True
+8,Gendergerechte Sprache,"['Not very controversial', 'Somewhat controversial', 'Somewhat controversial', 'Very controversial']","[12.264, 25.158, 132.808, 126.929]",True
+9,Genmais,"['Somewhat controversial', 'Somewhat controversial', 'Not very controversial', 'Very controversial']","[12.264, 25.158, 132.808, 126.929]",True
+10,Gentechnik,"['Somewhat controversial', 'Somewhat controversial', 'Somewhat controversial', 'Very controversial']","[12.264, 25.158, 132.808, 126.929]",True
+11,Geschlechterquote,"['Not very controversial', 'Somewhat controversial', 'Very controversial', 'Very controversial']","[12.264, 25.158, 132.808, 126.929]",True
+12,Glyphosat,"['Not very controversial', 'Somewhat controversial', 'Somewhat controversial']","[25.475, 35.967, 39.266]",True
+13,Grundeinkommen,"['Not very controversial', 'Not very controversial', 'Very controversial']","[25.475, 35.967, 39.266]",False
+14,Homeschooling,"['Not very controversial', 'Very controversial', 'Somewhat controversial']","[25.475, 35.967, 39.266]",True
+15,Impfpflicht,"['Not very controversial', 'Not at all controversial', 'Very controversial']","[25.475, 35.967, 39.266]",False
+16,Islam in Deutschland,"['Not very controversial', 'Not very controversial', 'Very controversial']","[25.475, 35.967, 39.266]",False
+17,Klimawandel,"['Somewhat controversial', 'Very controversial', 'Somewhat controversial']","[25.475, 35.967, 39.266]",True
+18,Leiharbeit,"['Somewhat controversial', 'Very controversial', 'Not very controversial']","[13.27, 163.902, 92.551]",True
+19,Prostitution,"['Somewhat controversial', 'Very controversial', 'Not very controversial']","[13.27, 163.902, 92.551]",True
+20,Rente,"['Not very controversial', 'Very controversial', 'Not very controversial']","[13.27, 163.902, 92.551]",False
+21,Sterbehilfe,"['Not very controversial', 'Very controversial', 'Not very controversial']","[13.27, 163.902, 92.551]",False
+22,Stuttgart 21,"['Somewhat controversial', 'Somewhat controversial', 'Not very controversial']","[13.27, 163.902, 92.551]",True
+23,Tempolimit auf Autobahnen,"['Not very controversial', 'Very controversial', 'Not very controversial']","[13.27, 163.902, 92.551]",False
+24,Tierversuche,"['Somewhat controversial', 'Somewhat controversial', 'Very controversial']","[19.039, 41.383, 26.765]",True
+25,Videoüberwachung,"['Not very controversial', 'Not very controversial', 'Very controversial']","[19.039, 41.383, 26.765]",False
+26,Waffenexporte,"['Not very controversial', 'Not very controversial', 'Somewhat controversial']","[19.039, 41.383, 26.765]",False
+27,Wolfsschutz,"['Not very controversial', 'Somewhat controversial', 'Somewhat controversial']","[19.039, 41.383, 26.765]",True

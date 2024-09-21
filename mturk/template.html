@@ -1,0 +1,52 @@
+<html lang="en">
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+
+<!-- MTURK JS -->
+<script data-external="1" src='https://s3.amazonaws.com/mturk-public/externalHIT_v1.js'></script>
+<!-- <script src="https://assets.crowd.aws/crowd-html-elements.js"></script> -->
+
+<!-- BOOTSTRAP CSS -->
+<link data-external="1" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+<!-- HITPUB CSS -->
+<link data-external="1" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet">
+
+<link rel="stylesheet" id="hitpub_css" href="hitpub.css">
+
+<!-- LIGHTBOX CSS -->
+<link data-external="1" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css">
+
+$body$
+
+<!-- Change this input type depending on if this is for mturk variable input or pandoc  -->
+<!-- html characters used to escape dollar sign begin curly brace end curly brace
+so that pandoc doesn't process these but mturk does-->
+
+<!-- <input type="hidden" class="question-json" value="W3sicXVlc3Rpb25zIjogWyJEbyB5b3UgYmVsaWV2ZSB0aGF0IGFib3J0aW9uIHNob3VsZCBiZSBhIGxlZ2FsIG9wdGlvbj8iLCAiRG8geW91IGJlbGlldmUgdGhhdCByZXN0cmljdGlvbnMgc2hvdWxkIGJlIHBsYWNlZCBvbiBhYm9ydGlvbiBwcm9jZWR1cmVzPyIsICJEbyB5b3UgdGhpbmsgdGhhdCB0aGUgZ292ZXJubWVudCBzaG91bGQgaGF2ZSBhIHNheSBpbiBhIHdvbWFuJ3MgZGVjaXNpb24gdG8gaGF2ZSBhbiBhYm9ydGlvbj8iLCAiRG8geW91IHRoaW5rIHRoYXQgd29tZW4gc2hvdWxkIGhhdmUgdGhlIHJpZ2h0IHRvIGNob29zZSB3aGV0aGVyIHRvIGhhdmUgYW4gYWJvcnRpb24gb3Igbm90PyJdfSwgeyJxdWVzdGlvbnMiOiBbIkRvIHlvdSBhZ3JlZSB0aGF0IGFmZmlybWF0aXZlIGFjdGlvbiBpcyBhbiBlZmZlY3RpdmUgd2F5IHRvIGFkZHJlc3MgaGlzdG9yaWNhbCBpbmp1c3RpY2VzPyIsICJEbyB5b3UgYmVsaWV2ZSB0aGF0IGFmZmlybWF0aXZlIGFjdGlvbiBpcyBuZWNlc3NhcnkgdG8gZW5zdXJlIGRpdmVyc2l0eSBpbiBjb2xsZWdlIGFkbWlzc2lvbnMgYW5kIGhpcmluZz8iLCAiRG8geW91IGJlbGlldmUgdGhhdCBhZmZpcm1hdGl2ZSBhY3Rpb24gcG9saWNpZXMgY2FuIGxvd2VyIHN0YW5kYXJkcyBpbiBjb2xsZWdlIGFkbWlzc2lvbnMgYW5kIGhpcmluZz8iLCAiRG8geW91IHRoaW5rIHRoYXQgYWZmaXJtYXRpdmUgYWN0aW9uIHBvbGljaWVzIGNhbiBsZWFkIHRvIHJldmVyc2UgZGlzY3JpbWluYXRpb24/IiwgIkRvIHlvdSB0aGluayB0aGF0IGFmZmlybWF0aXZlIGFjdGlvbiBzaG91bGQgYmUgYWJvbGlzaGVkIGluIGNvbGxlZ2UgYWRtaXNzaW9ucyBhbmQgaGlyaW5nPyJdfSwgeyJxdWVzdGlvbnMiOiBbIkRvIHlvdSBhZ3JlZSB3aXRoIHRoZSBwcmFjdGljZSBvZiBmYWN0b3J5IGZhcm1pbmc/IiwgIkRvIHlvdSBiZWxpZXZlIGFuaW1hbHMgc2hvdWxkIGhhdmUgdGhlIHNhbWUgcmlnaHRzIGFzIGh1bWFucz8iLCAiRG8geW91IHN1cHBvcnQgdGhlIHVzZSBvZiBhbmltYWxzIGluIHNjaWVudGlmaWMgdGVzdGluZz8iLCAiRG8geW91IHRoaW5rIGl0J3MgZXRoaWNhbCB0byB1c2UgYW5pbWFscyBmb3IgZW50ZXJ0YWlubWVudCBwdXJwb3Nlcywgc3VjaCBhcyBpbiBjaXJjdXNlcyBvciB6b29zPyIsICJTaG91bGQgaHVudGluZyBmb3Igc3BvcnQgYmUgYmFubmVkPyJdfSwgeyJxdWVzdGlvbnMiOiBbIkFyZSB5b3UgY29uY2VybmVkIGFib3V0IHByaXZhY3kgaXNzdWVzIHJlbGF0ZWQgdG8gdGhlIHVzZSBvZiBhcnRpZmljaWFsIGludGVsbGlnZW5jZT8iLCAiRG8geW91IGJlbGlldmUgdGhhdCB0aGUgYmVuZWZpdHMgb2YgYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2Ugb3V0d2VpZ2ggaXRzIHBvdGVudGlhbCByaXNrcz8iLCAiRG8geW91IHN1cHBvcnQgdGhlIGNvbnRpbnVlZCBkZXZlbG9wbWVudCBhbmQgdXNlIG9mIGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlPyIsICJTaG91bGQgdGhlcmUgYmUgc3RyaWN0ZXIgcmVndWxhdGlvbnMgb24gdGhlIHVzZSBvZiBhcnRpZmljaWFsIGludGVsbGlnZW5jZT8iXX0sIHsicXVlc3Rpb25zIjogWyJEbyB5b3UgYmVsaWV2ZSB0aGF0IGNlbnNvcnNoaXAgaXMgbmVjZXNzYXJ5IHRvIHByZXZlbnQgdGhlIHNwcmVhZCBvZiBoYXRlIHNwZWVjaCBhbmQgbWlzaW5mb3JtYXRpb24/IiwgIkRvIHlvdSB0aGluayB0aGF0IGNlbnNvcnNoaXAgaW5mcmluZ2VzIHVwb24gdGhlIHJpZ2h0IHRvIGZyZWUgc3BlZWNoPyIsICJJcyBpdCBhY2NlcHRhYmxlIGZvciBnb3Zlcm5tZW50cyB0byB1c2UgY2Vuc29yc2hpcCBpbiB0aGUgaW50ZXJlc3Qgb2YgbmF0aW9uYWwgc2VjdXJpdHk/IiwgIlNob3VsZCBzb2NpYWwgbWVkaWEgcGxhdGZvcm1zIGhhdmUgdGhlIHJpZ2h0IHRvIGNlbnNvciBjb250ZW50IHRoZXkgZGVlbSBpbmFwcHJvcHJpYXRlIG9yIGhhcm1mdWw/Il19LCB7InF1ZXN0aW9ucyI6IFsiRG8geW91IGJlbGlldmUgdGhhdCBjbGltYXRlIGNoYW5nZSBpcyBwcmltYXJpbHkgY2F1c2VkIGJ5IGh1bWFuIGFjdGl2aXRpZXM/IiwgIkRvIHlvdSBiZWxpZXZlIHRoYXQgbmF0dXJhbCBjeWNsZXMgY29udHJpYnV0ZSBtb3JlIHRvIGNsaW1hdGUgY2hhbmdlIHRoYW4gaHVtYW4gYWN0aXZpdGllcz8iLCAiRG8geW91IHN1cHBvcnQgaW1tZWRpYXRlIGFuZCBkcmFzdGljIG1lYXN1cmVzIHRvIGNvbWJhdCBjbGltYXRlIGNoYW5nZT8iLCAiRG8geW91IHRoaW5rIHRoYXQgZWNvbm9taWMgZ3Jvd3RoIHNob3VsZCBiZSBwcmlvcml0aXplZCBvdmVyIGNsaW1hdGUgY2hhbmdlIG1pdGlnYXRpb24gZWZmb3J0cz8iLCAiRG8geW91IHRoaW5rIHRoYXQgdGhlIHNldmVyaXR5IG9mIGNsaW1hdGUgY2hhbmdlIGhhcyBiZWVuIGV4YWdnZXJhdGVkIGJ5IHRoZSBtZWRpYT8iXX1d" name="questions-values" id="questions-values" > -->
+
+<input type="hidden" class="question-json" value="{{task.row_data[&#39;questions&#39;]}}" id="questions-values" name="questions-values">
+
+
+<!-- BOOSTRAP JS -->
+<script data-external="1" src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script data-external="1" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script data-external="1" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<!-- HITPUB JS -->
+<script src="timeme.js"></script>
+
+
+<!-- CHART JS -->
+<script data-external="1" src="https://unpkg.com/d3-3d@0.2.0/build/d3-3d.min.js"></script>
+<script data-external="1" src="https://d3js.org/d3.v6.min.js"></script>
+
+<!--  User scripts -->
+<script type="application/json" id="metadata" src="metadata.json"></script>
+<script src="main.js" type="module"></script>
+
+
+<!-- LIGHTBOX JS -->
+<script data-external="1" src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox-plus-jquery.min.js"></script>
+</html>
